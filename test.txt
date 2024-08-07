@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 HELLO MASTER POP
+=======
+HELLO DELEVOPER
+>>>>>>> developer
